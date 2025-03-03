@@ -22,7 +22,7 @@
 ## 인스턴스 생성
 |Default|Brush Painting|
 |:---:|:---:|
-|![Grid](./README_Source/Grid.gif)|![Grid](./README_Source/Brush.gif)|
+|![Grid](./README_Source/Grid.gif)|![Brush](./README_Source/Brush.gif)|
 |Grid 기반 범위 설정|브러쉬 페인팅 추가/제거|
 
 <br>
@@ -31,7 +31,7 @@
 ### 메시 타입
 |Human/Man|Human/Girl|Stick/Cylinder(변경예정)|Stick/Circle(추가예정)|
 |:---:|:---:|:---:|:---:|
-|![Man](./README_Source/Man.png)|![Man](./README_Source/Girl.png)|![Cylinder](./README_Source/Cylinder.png)|![Sphere](./README_Source/Sphere.png)|
+|![Man](./README_Source/Man.png)|![Girl](./README_Source/Girl.png)|![Cylinder](./README_Source/Cylinder.png)|![Sphere](./README_Source/Sphere.png)|
 |남자|여자|원기둥 응원봉|구형 응원봉|
 ### 애니메이션 타입
 |RockOne|RockBoth|WaveOne|BothShake|
@@ -42,7 +42,7 @@
 <br>
 
 ## 타임라인 컨트롤
-![RockBoth](./README_Source/Timeline.gif)
+![Timeline](./README_Source/Timeline.gif)
 
 Fanlight Control을 담당하는 커스텀 트랙 및 클립
 
@@ -63,7 +63,7 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 
 |Prefab + Animator|Fanlight System|
 |:---:|:---:|
-|![RockBoth](./README_Source/Stress1.PNG)|![RockBoth](./README_Source/Stress2.PNG)|
+|![Stress1](./README_Source/Stress1.PNG)|![Stress2](./README_Source/Stress2.PNG)|
 |프레임 1.2|프레임 47.7|
 |배치카운트 53381|배치카운트 13|
 |패스콜 18020|패스콜 13|
