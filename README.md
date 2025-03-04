@@ -12,7 +12,7 @@
 |---|---|
 |GPU Instancing|렌더링 최적화|
 |Compute Shader|Target LookAt, 컬링 및 LOD|
-|Vertex Animation|관객 애니메이션|
+|Vertex Shader|관객 애니메이션|
 |Scriptable Object|인스턴스 패키징|
 |Timeline Scripting|Fanlight 시스템 제어|
 |Support Cinemachine|VirtualCamera 대응|
@@ -34,9 +34,9 @@
 |![Man](./README_Source/Man.png)|![Girl](./README_Source/Girl.png)|![Cylinder](./README_Source/Cylinder.png)|![Sphere](./README_Source/Sphere.png)|
 |남자|여자|원기둥 응원봉|구형 응원봉|
 ### 애니메이션 타입
-|RockOne|RockBoth|WaveOne|BothShake|
+|RockOne|RockBoth|WaveOne|ShakeBoth|
 |:---:|:---:|:---:|:---:|
-|![RockBoth](./README_Source/RockOne.gif)|![RockBoth](./README_Source/RockBoth.gif)|![WaveOne](./README_Source/WaveOne.gif)|![BothShake](./README_Source/BothShake.gif)|
+|![RockBoth](./README_Source/RockOne.gif)|![RockBoth](./README_Source/RockBoth.gif)|![WaveOne](./README_Source/WaveOne.gif)|![ShakeBoth](./README_Source/BothShake.gif)|
 |한팔 흔들기|양팔 흔들기|한팔 웨이브|환호|
 
 <br>
