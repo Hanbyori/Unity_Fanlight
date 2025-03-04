@@ -13,7 +13,7 @@
 |GPU Instancing|렌더링 최적화|
 |Compute Shader|Target LookAt, 컬링 및 LOD|
 |Vertex Animation|관객 애니메이션|
-|Scriptable Object|인스턴스 정보|
+|Scriptable Object|인스턴스 패키징|
 |Timeline Scripting|Fanlight 시스템 제어|
 |Support Cinemachine|VirtualCamera 대응|
 
