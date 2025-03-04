@@ -10,7 +10,7 @@
 ## 기능
 |내용|세부내용|
 |---|---|
-|GPU Instancing|렌더링 최적화|
+|GPU Instancing|드로우콜 최적화|
 |Compute Shader|Target LookAt, 컬링 및 LOD|
 |Vertex Shader|관객 애니메이션|
 |Scriptable Object|인스턴스 패키징|
