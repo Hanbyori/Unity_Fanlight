@@ -71,11 +71,14 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 <br>
 
 ## 사용 사례
-#### [(여자)아이들((G)I-DLE) - LION Covered by 고여름 이주인 쿠우 한세긴 | 청백가요대전](https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz)
-<a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz"><img src="./README_Source/LION.png"></a>
+#### <a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz" target="_blank">(여자)아이들((G)I-DLE) - LION Covered by 고여름 이주인 쿠우 한세긴 | 청백가요대전
+<a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz" target="_blank"><img src="./README_Source/LION.png"></a>
 
-#### [[청백가요대전] Miiro-「괴물이 피는 숲」 Cover by.비몽 feat.핑맨](https://youtu.be/7xNsG3OMwiY?si=k39dgHVmXUNLP_K8)
-<a href="https://youtu.be/7xNsG3OMwiY?si=k39dgHVmXUNLP_K8"><img src="./README_Source/MP.png"></a>
+#### <a href="https://youtu.be/7xNsG3OMwiY?si=k39dgHVmXUNLP_K8" target="_blank">[청백가요대전] Miiro-「괴물이 피는 숲」 Cover by.비몽 feat.핑맨
+<a href="https://youtu.be/7xNsG3OMwiY?si=k39dgHVmXUNLP_K8" target="_blank"><img src="./README_Source/MP.png"></a>
 
-#### [REMEMBER - 버튜버 청백가요대전 20명 단체곡](https://youtu.be/i3ftfMXvquk?si=yS7oZUIkEGxMgng4)
-<a href="https://youtu.be/i3ftfMXvquk?si=yS7oZUIkEGxMgng4"><img src="./README_Source/REMEMBER.jpg"></a>
+#### <a href="https://youtu.be/i3ftfMXvquk?si=yS7oZUIkEGxMgng4" target="_blank">REMEMBER - 버튜버 청백가요대전 20명 단체곡
+<a href="https://youtu.be/i3ftfMXvquk?si=yS7oZUIkEGxMgng4" target="_blank"><img src="./README_Source/REMEMBER.jpg"></a>
+
+#### <a href="https://youtu.be/Xdd3J8EFy6I?si=B5_PMD4owXeZkGRm" target="_blank">[청백가요대전] SUPERPOWER - 나비&u32 (Cover) 4K
+<a href="https://youtu.be/Xdd3J8EFy6I?si=B5_PMD4owXeZkGRm" target="_blank"><img src="./README_Source/SUPERPOWER.jpg"></a>
