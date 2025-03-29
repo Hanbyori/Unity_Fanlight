@@ -29,7 +29,7 @@
 
 ## 인스턴스 정보
 ### 메시 타입
-|Human/Man|Human/Girl|Stick/Cylinder(변경예정)|Stick/Circle(추가예정)|
+|Human/Man|Human/Girl|Stick/Cylinder|Stick/Circle(추가예정)|
 |:---:|:---:|:---:|:---:|
 |![Man](./README_Source/Man.png)|![Girl](./README_Source/Girl.png)|![Cylinder](./README_Source/Cylinder.png)|![Sphere](./README_Source/Sphere.png)|
 |남자|여자|원기둥 응원봉|구형 응원봉|
