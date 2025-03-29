@@ -22,7 +22,7 @@
 ## 인스턴스 생성
 |Default|Brush Painting|
 |:---:|:---:|
-|![Grid](./README_Source/Grid.gif)|![Brush](./README_Source/Brush.gif)|
+|<img src="./README_Source/Grid.gif" width="256" height="256">|<img src="./README_Source/Brush.gif" width="256" height="256">|
 |Grid 기반 범위 설정|브러쉬 페인팅 추가/제거|
 
 <br>
@@ -31,12 +31,12 @@
 ### 메시 타입
 |Human/Man|Human/Girl|Stick/Cylinder(변경예정)|Stick/Circle(추가예정)|
 |:---:|:---:|:---:|:---:|
-|![Man](./README_Source/Man.png)|![Girl](./README_Source/Girl.png)|![Cylinder](./README_Source/Cylinder.png)|![Sphere](./README_Source/Sphere.png)|
+|<img src="./README_Source/Man.png" width="256" height="256">|<img src="./README_Source/Girl.png" width="256" height="256">|<img src="./README_Source/Cylinder.png" width="256" height="256">|<img src="./README_Source/Sphere.png" width="256" height="256">|
 |남자|여자|원기둥 응원봉|구형 응원봉|
 ### 애니메이션 타입
 |RockOne|RockBoth|WaveOne|ShakeBoth|
 |:---:|:---:|:---:|:---:|
-|![RockBoth](./README_Source/RockOne.gif)|![RockBoth](./README_Source/RockBoth.gif)|![WaveOne](./README_Source/WaveOne.gif)|![ShakeBoth](./README_Source/BothShake.gif)|
+|<img src="./README_Source/RockOne.gif" width="256" height="256">|<img src="./README_Source/RockBoth.gif" width="256" height="256">|<img src="./README_Source/WaveOne.gif" width="256" height="256">|<img src="./README_Source/BothShake.gif" width="256" height="256">|
 |한팔 흔들기|양팔 흔들기|한팔 웨이브|환호|
 
 <br>
@@ -63,7 +63,7 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 
 |Prefab + Animator|Fanlight System|
 |:---:|:---:|
-|![Stress1](./README_Source/Stress1.PNG)|![Stress2](./README_Source/Stress2.PNG)|
+|<img src="./README_Source/Stress1.PNG" width="256" height="256">|<img src="./README_Source/Stress2.PNG" width="256" height="256">|
 |프레임 1.2|프레임 47.7|
 |배치카운트 53381|배치카운트 13|
 |패스콜 18020|패스콜 13|
