@@ -50,8 +50,6 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 
 클립 별 애니메이션, 응원봉 색 & 강도, 플리커링 이벤트 및 클립 간 모든 요소 블렌딩 기능
 
-추후 개발 : 관객과 응원봉 클립 분리
-
 <br>
 
 ## 스트레스 테스트
@@ -71,6 +69,9 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 <br>
 
 ## 사용 사례
+#### <a href="https://youtu.be/MCWcvp6PEow?si=o83Go6oifiNhs_ah" target="_blank">W/X/Y - Tani Yuuki｜Cover by 여르미 x 한결 x 비몽
+<a href="https://youtu.be/MCWcvp6PEow?si=jO4IyIKzQOMw8NOP" target="_blank"><img src="./README_Source/WXY.jpg"></a>
+---
 #### <a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz" target="_blank">(여자)아이들((G)I-DLE) - LION Covered by 고여름 이주인 쿠우 한세긴 | 청백가요대전
 <a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz" target="_blank"><img src="./README_Source/LION.png"></a>
 ---
