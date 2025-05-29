@@ -69,6 +69,9 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 <br>
 
 ## 사용 사례
+#### <a href="https://youtu.be/bn9Kg9j9E_M?si=mYpym0DJne38EZWA" target="_blank">비몽(BEEMONG) - Fly High Official MV
+<a href="https://youtu.be/bn9Kg9j9E_M?si=mYpym0DJne38EZWA" target="_blank"><img src="./README_Source/FlyHigh.jpg"></a>
+---
 #### <a href="https://youtu.be/MCWcvp6PEow?si=o83Go6oifiNhs_ah" target="_blank">W/X/Y - Tani Yuuki｜Cover by 여르미 x 한결 x 비몽
 <a href="https://youtu.be/MCWcvp6PEow?si=jO4IyIKzQOMw8NOP" target="_blank"><img src="./README_Source/WXY.jpg"></a>
 ---
