@@ -69,6 +69,9 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 <br>
 
 ## 사용 사례
+#### <a href="https://vod.sooplive.co.kr/player/167068401" target="_blank">블리즈 1st concert [PANDORA]
+<a href="https://vod.sooplive.co.kr/player/167068401" target="_blank"><img src="./README_Source/PANDORA.png"></a>
+---
 #### <a href="https://youtu.be/bn9Kg9j9E_M?si=mYpym0DJne38EZWA" target="_blank">비몽(BEEMONG) - Fly High Official MV
 <a href="https://youtu.be/bn9Kg9j9E_M?si=mYpym0DJne38EZWA" target="_blank"><img src="./README_Source/FlyHigh.jpg"></a>
 ---
