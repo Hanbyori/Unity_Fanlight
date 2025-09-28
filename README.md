@@ -69,8 +69,8 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 <br>
 
 ## 사용 사례
-#### <a href="https://play.sooplive.co.kr/qooqoo3110/286496324" target="_blank">쿠우 첫 번째 온라인 콘서트 REMEMBER
-<a href="https://play.sooplive.co.kr/qooqoo3110/286496324" target="_blank"><img src="./README_Source/REMEMBER.png"></a>
+#### <a href="https://vod.sooplive.co.kr/player/168209731" target="_blank">쿠우 첫 번째 온라인 콘서트 REMEMBER
+<a href="https://vod.sooplive.co.kr/player/168209731" target="_blank"><img src="./README_Source/REMEMBER.png"></a>
 ---
 #### <a href="https://vod.sooplive.co.kr/player/167068401" target="_blank">블리즈 1st concert [PANDORA]
 <a href="https://vod.sooplive.co.kr/player/167068401" target="_blank"><img src="./README_Source/PANDORA.png"></a>
