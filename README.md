@@ -68,28 +68,51 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 
 <br>
 
+## 예정된 패치
+- ~~Unity 6.0 이상 (Render Graph 대응)~~ (완료)
+- ~~BatchRendererGroup(BRG)으로 시스템 이관~~ (완료)
+- ~~LOD 시스템 추가~~ (완료)
+- 브러쉬 페인팅 시스템 변경
+- 캐릭터 모델링 변경
+- 애니메이션 클립 수정 및 추가
+- 구형 응원봉 추가
+- 응원봉 타임라인 클립 세분화
+- 배치 된 포지션에 따른 연출용 타입 추가
+
 ## 사용 사례
+#### <a href="https://vod.sooplive.co.kr/player/190358849" target="_blank">비몽 단독 콘서트 "Be Daydreamer"✨
+<img src="./README_Source/BDD.png"></a>
+---
+#### <a href="https://vod.sooplive.co.kr/player/177340737" target="_blank">도파민 3주년 콘서트〚PANORAMA
+<img src="./README_Source/PANORAMA.png"></a>
+---
 #### <a href="https://vod.sooplive.co.kr/player/168209731" target="_blank">쿠우 첫 번째 온라인 콘서트 REMEMBER
-<a href="https://vod.sooplive.co.kr/player/168209731" target="_blank"><img src="./README_Source/REMEMBER.png"></a>
+<img src="./README_Source/Qoo.png"></a>
+---
+#### <a href="https://youtu.be/xuDAw0M-xQ0?si=Ov486JQbZGCLUfVD" target="_blank">SPYAIR - 사무라이하트(Some Like It Hot!!) | Cover by 제갈금자x모구구</a> - Custom Edit
+<a href="https://youtu.be/xuDAw0M-xQ0?si=Ov486JQbZGCLUfVD" target="_blank"><img src="./README_Source/SMH.png"></a>
 ---
 #### <a href="https://vod.sooplive.co.kr/player/167068401" target="_blank">블리즈 1st concert [PANDORA]
-<a href="https://vod.sooplive.co.kr/player/167068401" target="_blank"><img src="./README_Source/PANDORA.png"></a>
+<img src="./README_Source/PANDORA.png"></a>
 ---
 #### <a href="https://youtu.be/bn9Kg9j9E_M?si=mYpym0DJne38EZWA" target="_blank">비몽(BEEMONG) - Fly High Official MV
-<a href="https://youtu.be/bn9Kg9j9E_M?si=mYpym0DJne38EZWA" target="_blank"><img src="./README_Source/FlyHigh.jpg"></a>
+<img src="./README_Source/FlyHigh.png"></a>
 ---
 #### <a href="https://youtu.be/MCWcvp6PEow?si=o83Go6oifiNhs_ah" target="_blank">W/X/Y - Tani Yuuki｜Cover by 여르미 x 한결 x 비몽
-<a href="https://youtu.be/MCWcvp6PEow?si=jO4IyIKzQOMw8NOP" target="_blank"><img src="./README_Source/WXY.jpg"></a>
+<img src="./README_Source/WXY.png"></a>
 ---
 #### <a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz" target="_blank">(여자)아이들((G)I-DLE) - LION Covered by 고여름 이주인 쿠우 한세긴 | 청백가요대전
-<a href="https://youtu.be/Ef-MRWAuxl4?si=bBGenQ0w0svksLmz" target="_blank"><img src="./README_Source/LION.png"></a>
+<img src="./README_Source/LION.png"></a>
 ---
 #### <a href="https://youtu.be/7xNsG3OMwiY?si=k39dgHVmXUNLP_K8" target="_blank">[청백가요대전] Miiro-「괴물이 피는 숲」 Cover by.비몽 feat.핑맨
-<a href="https://youtu.be/7xNsG3OMwiY?si=k39dgHVmXUNLP_K8" target="_blank"><img src="./README_Source/MP.png"></a>
+<img src="./README_Source/MP.png"></a>
 ---
 #### <a href="https://youtu.be/i3ftfMXvquk?si=yS7oZUIkEGxMgng4" target="_blank">REMEMBER - 버튜버 청백가요대전 20명 단체곡
-<a href="https://youtu.be/i3ftfMXvquk?si=yS7oZUIkEGxMgng4" target="_blank"><img src="./README_Source/REMEMBER.jpg"></a>
+<img src="./README_Source/REMEMBER.png"></a>
 ---
 #### <a href="https://youtu.be/Xdd3J8EFy6I?si=B5_PMD4owXeZkGRm" target="_blank">[청백가요대전] SUPERPOWER - 나비&u32 (Cover) 4K
-<a href="https://youtu.be/Xdd3J8EFy6I?si=B5_PMD4owXeZkGRm" target="_blank"><img src="./README_Source/SUPERPOWER.jpg"></a>
+<img src="./README_Source/SUPERPOWER.png"></a>
+---
+#### <a href="https://youtu.be/2KKjqsUAZW0?si=QwP5EsCzg6oAbkJw" target="_blank">【버츄페】 청춘펀치 - 권민&김치만두｜Covered By 미르
+<img src="./README_Source/CP.png"></a>
 ---
