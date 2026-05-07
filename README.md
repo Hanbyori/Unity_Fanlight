@@ -82,6 +82,9 @@ Fanlight Control을 담당하는 커스텀 트랙 및 클립
 <br>
 
 ## 사용 사례
+#### <a href="https://chzzk.naver.com/video/12789149" target="_blank">REalize Dream, 레드 3D 쇼케이스</a>
+<a href="https://chzzk.naver.com/video/12789149" target="_blank"><img src="./README_Source/RED.png"></a>
+---
 #### <a href="https://vod.sooplive.co.kr/player/190358849" target="_blank">비몽 단독 콘서트 "Be Daydreamer"✨</a>
 <a href="https://vod.sooplive.co.kr/player/190358849" target="_blank"><img src="./README_Source/BDD.png"></a>
 ---
