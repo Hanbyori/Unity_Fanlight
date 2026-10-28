@@ -1,83 +1,25 @@
 # Unity_Fanlight
 
-![Title](./README_Source/Title.jpeg)
+#### 관객석에서 응원봉을 흔드는 연출을 위한 Unity 시스템
 
-#### 관객석에서 응원봉을 흔드는 연출을 위한 시스템
-#### 메시 렌더링 및 애니메이션을 GPU 코딩으로 최적화
-
-<br>
-
-## 기능
-|내용|세부내용|
-|---|---|
-|GPU Instancing|드로우콜 최적화|
-|Compute Shader|Target LookAt, 컬링 및 LOD|
-|Vertex Shader|관객 애니메이션|
-|Scriptable Object|인스턴스 패키징|
-|Timeline Scripting|Fanlight 시스템 제어|
-|Support Cinemachine|VirtualCamera 대응|
-
-<br>
-
-## 인스턴스 생성
-|Default|Brush Painting|
-|:---:|:---:|
-|![Grid](./README_Source/Grid.gif)|![Brush](./README_Source/Brush.gif)|
-|Grid 기반 범위 설정|브러쉬 페인팅 추가/제거|
-
-<br>
-
-## 인스턴스 정보
-### 메시 타입
-|Human/Man|Human/Girl|Stick/Cylinder|Stick/Circle(추가예정)|
-|:---:|:---:|:---:|:---:|
-|![Man](./README_Source/Man.png)|![Girl](./README_Source/Girl.png)|![Cylinder](./README_Source/Cylinder.png)|![Sphere](./README_Source/Sphere.png)|
-|남자|여자|원기둥 응원봉|구형 응원봉|
-### 애니메이션 타입
-|RockOne|RockBoth|WaveOne|ShakeBoth|
-|:---:|:---:|:---:|:---:|
-|![RockBoth](./README_Source/RockOne.gif)|![RockBoth](./README_Source/RockBoth.gif)|![WaveOne](./README_Source/WaveOne.gif)|![ShakeBoth](./README_Source/BothShake.gif)|
-|한팔 흔들기|양팔 흔들기|한팔 웨이브|환호|
-
-<br>
-
-## 타임라인 컨트롤
-![Timeline](./README_Source/Timeline.gif)
-
-Fanlight Control을 담당하는 커스텀 트랙 및 클립
-
-타임라인 프레임 연동과 사용자가 직접 BPM을 설정해서 노래 정박에 하이라이트 들어가게끔
-
-클립 별 애니메이션, 응원봉 색 & 강도, 플리커링 이벤트 및 클립 간 모든 요소 블렌딩 기능
+https://github.com/user-attachments/assets/f689b09e-9389-4619-bb68-5e2e24d702a6
 
 <br>
 
 ## 스트레스 테스트
-테스트 환경
-- PC : 5950X / RTX 3080 / RAM 32GB
-- 인스턴스 수 : 22,500
-- 메시 폴리 카운트 : 157,680,000
-- 메시 버텍스 카운트 : 154,575,000
+테스트 환경 (에디터 측정)
+- PC : 5950X / RTX 3080 / RAM 64GB
+- Unity 6000.3.8f1 / URP 17 / Forward+
+- SRP Batcher On / Dynamic Batching Off
+- 해상도 1920 x 1080
 
 |Prefab + Animator|Fanlight System|
 |:---:|:---:|
 |![Stress1](./README_Source/Stress1.PNG)|![Stress2](./README_Source/Stress2.PNG)|
-|프레임 1.2|프레임 47.7|
-|배치카운트 53381|배치카운트 13|
-|패스콜 18020|패스콜 13|
-
-<br>
-
-## 예정된 패치
-- ~~Unity 6.0 이상 (Render Graph 대응)~~ (완료)
-- ~~BatchRendererGroup(BRG)으로 시스템 이관~~ (완료)
-- ~~LOD 시스템 추가~~ (완료)
-- ~~브러쉬 페인팅 시스템 변경~~ (완료)
-- 캐릭터 모델링 변경
-- ~~애니메이션 클립 수정 및 추가~~ (완료)
-- 구형 응원봉 추가
-- ~~응원봉 타임라인 클립 세분화~~ (완료)
-- ~~배치 된 포지션에 따른 연출용 타입 추가~~ (완료)
+|인스턴스 수 5,000|인스턴스 수 22,500|
+|프레임 12.1|프레임 275.5|
+|배치카운트 8720|배치카운트 11|
+|패스콜 42|패스콜 11|
 
 <br>
 
